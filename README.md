@@ -43,4 +43,4 @@ Python · FastAPI · React · TypeScript · Electron · SQLite · FFmpeg · hls.
 
 ---
 
-This profile uses the `damifresh` handle only: no real name, location, or external contact link by choice.
+Selected work and measurements are linked above. The Open Screen source remains private by design.
